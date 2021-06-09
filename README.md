@@ -1,5 +1,5 @@
 # QrMaker
-**QrGen** _is detailed Qr Code generator_
+**QrMaker** _is detailed Qr Code generator_
 
 ## Installation
 Install "requirements.txt" for Libraries
