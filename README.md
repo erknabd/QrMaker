@@ -19,4 +19,4 @@ python3 QrMaker.py
 3)PHONE
 4)WIFI
 ```
-![Example](https://raw.githubusercontent.com/shexer/QrMaker/main/qrmaker.PNG)
+![Example](https://raw.githubusercontent.com/shexer/QrMaker/main/example.PNG)
