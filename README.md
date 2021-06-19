@@ -4,6 +4,7 @@
 ## Installation
 Install "requirements.txt" for Libraries
 ```
+git clone https://github.com/shexer/QrMaker/
 pip install -r requirements.txt
 ```
 
